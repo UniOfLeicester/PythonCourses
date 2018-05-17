@@ -1,0 +1,251 @@
+LOCUS       FJ436046                1263 bp    mRNA    linear   VRT 25-NOV-2008
+DEFINITION  Oryzias latipes Nanog (Nanog) mRNA, complete cds.
+ACCESSION   FJ436046
+VERSION     FJ436046.1
+KEYWORDS    .
+SOURCE      Oryzias latipes (Japanese medaka)
+  ORGANISM  Oryzias latipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1  (bases 1 to 1263)
+  AUTHORS   Camp,E.M., Sanchez-Sanchez,A.V., Garcia-Espana,A., Odqvist,L. and
+            Mullor,J.L.
+  TITLE     Nanog regulates proliferation and germ cell migration during early
+            vertebrate embryonic development
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1263)
+  AUTHORS   Camp,E.M., Sanchez-Sanchez,A.V., Garcia-Espana,A., Odqvist,L. and
+            Mullor,J.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-NOV-2008) Regenerative Medicine, Centro de
+            Investigacion Principe Felipe, Av. Autopista del Saler, 16-3,
+            Valencia 46012, Spain
+FEATURES             Location/Qualifiers
+     source          1..1263
+                     /organism="Oryzias latipes"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8090"
+                     /chromosome="20"
+     gene            1..1263
+                     /gene="Nanog"
+                     /note="Ol-Nanog"
+     CDS             1..1263
+                     /gene="Nanog"
+                     /note="homeobox-containing transcription factor"
+                     /codon_start=1
+                     /product="Nanog"
+                     /protein_id="ACJ51123.1"
+                     /translation="MAEWKTQVNYNPTFHAYTYGFVYQTGPEQNHVTGNDWSQNCEQN
+                     GYNGGPTQSHFPARSREESPPRSPEQQPESGHYYQDSGVVYIREAQTGRLVMAGQHRV
+                     GLDSGENCTRRTGSDSASDSEAHTSPDSWSSCSNYDRSVPQTDPVVWVKNEEQTGARS
+                     PDHSEDVSSSLMVESQSFAVQDTGDASSSTHAPFTTTKKQASSTPNAPKAKVRAAFSE
+                     SQMSTLVQRFSVQRYLAPAEMKNLADVTGLTYKQVKTWFQNRRMKLRRHQKDTSWVSE
+                     RYTINKDNTAADTVFSNVAPHVPPYQGDGMSHLRHHYNQHMMGAAFKNTPHNLAFYLA
+                     AMGNPPGTAGYPPWSSSPPQAAVPSRPQVPGWPLPPGRSQFGFCPIPYDPSDAASLNN
+                     FERNAIPDSKDGESAGGANAAILHNAVQ"
+ORIGIN      
+        1 atggcggagt ggaaaactca ggtcaactac aaccccacat tccatgcgta cacctatggc
+       61 ttcgtgtatc aaactgggcc cgaacagaac cacgtaaccg ggaacgactg gagccaaaac
+      121 tgtgagcaga acggctacaa cggaggaccc acgcagtctc atttccccgc taggagccgg
+      181 gaggagtccc caccacgcag cccggagcag cagcctgaga gcggccacta ttaccaggac
+      241 tccggggtgg tatacatcag agaggcccag acgggccgct tggttatggc gggacagcac
+      301 cgggtcggtt tagacagcgg cgaaaactgc acgagacgga ccggaagcga ttctgccagc
+      361 gactccgagg cacacacatc accggattct tggagttcat gcagcaacta tgacagaagt
+      421 gttcctcaga cagatcctgt agtttgggtc aaaaatgaag agcagactgg agcaaggagc
+      481 ccagaccaca gcgaggatgt ctccagctcg ctcatggttg agtcccaatc ttttgcagtc
+      541 caagacacag gggatgcaag cagttccaca catgcaccct tcaccaccac aaagaaacaa
+      601 gccagcagta ctccaaacgc cccgaaagct aaggtccggg cagctttctc tgagagccag
+      661 atgagcactc tggtgcagcg cttcagcgtg cagaggtacc tcgccccagc tgagatgaag
+      721 aacctggcag atgtgactgg actcacctac aagcaggtga aaacatggtt tcagaaccgt
+      781 aggatgaagc ttaggaggca tcagaaggac accagctggg tttcagagcg atatacaatc
+      841 aacaaggaca acacggctgc tgacactgta ttctcaaacg tggctccaca tgtcccccct
+      901 tatcaggggg atgggatgtc ccatctgcgg catcactaca accagcacat gatgggggca
+      961 gctttcaaga ataccccaca caacctggcc ttctatctgg ctgccatggg taacccccct
+     1021 ggaactgctg gttacccgcc atggtcttcc agcccccccc aggctgcggt gcccagcaga
+     1081 ccccaggtac caggatggcc cctgccgcca ggccgcagtc agtttggatt ctgcccaatt
+     1141 ccatacgacc cctccgacgc cgcctctttg aacaactttg agcgcaacgc aatccccgac
+     1201 agcaaagacg gggagtctgc tgggggtgcg aatgcagcca ttttgcacaa tgctgtccaa
+     1261 tga
+//
+
+LOCUS       JQ801747                1049 bp    mRNA    linear   MAM 08-APR-2014
+DEFINITION  Capra hircus NANOG (NANOG) mRNA, complete cds.
+ACCESSION   JQ801747
+VERSION     JQ801747.1
+KEYWORDS    .
+SOURCE      Capra hircus (goat)
+  ORGANISM  Capra hircus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+            Pecora; Bovidae; Caprinae; Capra.
+REFERENCE   1  (bases 1 to 1049)
+  AUTHORS   Singhal,D.K., Singhal,R., Malik,H.N., Kumar,S., Kumar,S.,
+            Mohanty,A.K., Kaushik,J.K. and Malakar,D.
+  TITLE     Molecular cloning, sequence characterization and recombinant
+            expression of Nanog gene in goat fibroblast cells using lentiviral
+            based expression system
+  JOURNAL   Mol. Biol. Rep. 41 (4), 1907-1915 (2014)
+   PUBMED   24604724
+REFERENCE   2  (bases 1 to 1049)
+  AUTHORS   Kumar,D., Singh,S., Mohanty,A.K. and Malakar,D.
+  TITLE     Isolation sequence characterization of caprine nanog gene from
+            emryonic stem cells
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1049)
+  AUTHORS   Kumar,D., Singh,S., Mohanty,A.K. and Malakar,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-MAR-2012) Animal Biotechnology, Ndri, Maharaja
+            Agarsen Chowk, Karnal, Haryana 132001, India
+FEATURES             Location/Qualifiers
+     source          1..1049
+                     /organism="Capra hircus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9925"
+     gene            1..1049
+                     /gene="NANOG"
+     CDS             110..1012
+                     /gene="NANOG"
+                     /note="stem cells pluripotency marker"
+                     /codon_start=1
+                     /product="NANOG"
+                     /protein_id="AFP33600.1"
+                     /translation="MSVDPACPQSLLGPEASNSGESSPMPEESYASLQMSSADTLDTD
+                     TVSPLPSSMDLLIHDNPDSSTSPRVKPLSPSAEESTEKEEKVPVKKQKIRTVFSQTQL
+                     CVLNDRFQRQKYLSLQQMQELSNILNLSYKQVKTWFQNQRMKCKKWQKNNWPRNSNDV
+                     PQDPATAEYPSFYSYHQGCLVNSPRNMPMWGNQTWNNPTWSNQNWNSQSWSNHSWNSQ
+                     AWCPQAWNNQPWNNQCNNYMEEFLQPGIQLQQNSPVCDLEATLGTAGENYNVIQQAVK
+                     YFSSQQQITDLFPNYPLNIQPEDL"
+ORIGIN      
+        1 acccggagat cttcaccttt ctctaagttt cttctatcta gattcttcag cctggacttt
+       61 tcctagcatc tagctcttag gttttttcct tctccttcaa ctcaacaaca tgagtgtgga
+      121 cccagcttgt ccccaaagcc tgcttggccc cgaagcatcc aactctgggg aatcttcacc
+      181 catgcctgaa gaaagttacg catccttgca aatgtcatct gctgacaccc tcgacacgga
+      241 cactgtctct cctcttcctt cctccatgga tctgcttatt catgacaatc ctgattcttc
+      301 cacaagccct agagtgaaac cactgtcccc atctgcggag gagagcacag agaaggaaga
+      361 gaaggtcccc gtcaagaaac aaaagatcag aactgtgttc tcacagaccc agctgtgtgt
+      421 gctcaatgac agatttcaga ggcagaaata cctcagtctc cagcaaatgc aagaactttc
+      481 caacatcttg aacctcagct acaagcaggt gaagacctgg ttccagaacc agagaatgaa
+      541 atgtaagaaa tggcagaaaa acaactggcc aaggaatagc aatgatgtgc ctcaggaccc
+      601 agcaacggca gaatacccca gcttctattc ctaccatcag gggtgtttgg tgaactctcc
+      661 tcgaaacatg cccatgtggg gtaaccagac ctggaataac cccacgtgga gcaatcagaa
+      721 ctggaacagt cagtcttgga gcaaccactc ctggaacagt caggcctggt gcccccaagc
+      781 ctggaataac cagccttgga acaatcaatg caacaactac atggaggaat tcctgcagcc
+      841 cgggatccag ctccagcaga attctcccgt ctgtgatctg gaggccaccc tgggaactgc
+      901 tggggaaaat tataacgtaa tacagcaagc tgtcaagtat ttcagttccc agcagcaaat
+      961 cactgattta ttcccaaact accctctcaa catacagcct gaagatttgt aacagctatt
+     1021 tgtgacggct attgtatggg atcttgctg
+//
+
+LOCUS       KU924010                3326 bp    DNA     linear   VRT 14-APR-2017
+DEFINITION  Megalobrama amblycephala Nanog (nanog) gene, complete cds.
+ACCESSION   KU924010
+VERSION     KU924010.1
+KEYWORDS    .
+SOURCE      Megalobrama amblycephala (Wuchang bream)
+  ORGANISM  Megalobrama amblycephala
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Megalobrama.
+REFERENCE   1  (bases 1 to 3326)
+  AUTHORS   Yu,M. and Chen,T.
+  TITLE     Identification of pluripotent associated gene nanog in blunt snout
+            bream
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 3326)
+  AUTHORS   Yu,M. and Chen,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAR-2016) College of Fisheries, Hua Zhong
+            Agricultural University, No 1, Shizhishan Street, Hongshan
+            District, Wuhan, Hubei 430070, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3326
+                     /organism="Megalobrama amblycephala"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:75352"
+                     /sex="female"
+                     /country="China"
+                     /collection_date="01-Dec-2014"
+     gene            1..3326
+                     /gene="nanog"
+     mRNA            join(1..575,1484..1845,1933..2052,2828..3326)
+                     /gene="nanog"
+                     /product="Nanog"
+     CDS             join(218..575,1484..1845,1933..2052,2828..3148)
+                     /gene="nanog"
+                     /note="DNA binding homeobox transcription factor; involved
+                     in embryonic stem (ES) cell proliferation, renewal, and
+                     pluripotency"
+                     /codon_start=1
+                     /product="Nanog"
+                     /protein_id="AMY98424.1"
+                     /translation="MADWKIPVSYNFNPSYHAYAYGLMYPQVSEHGHPNLSWAEAAYS
+                     HSGGVTASYYSAQTAQQSPPWSPENGGTSSYGNYPSHTQNGRLFISYNKTEPDPKATE
+                     VEQAGSDTPSDSEAHTPDSWSSGSSHEGAALSNLNLPSWKDRDYETDSGSPDSGEQIS
+                     NSVSTTGEEPVSQNLGVDALPPLPNVTPSPARPPAQPRKTRAAFSEEQMNALIHRFNV
+                     QRYLTPAEMKTLAGATGLTYKQVKTWFQNRRMKLKRHQRDSSWMTERYVVNGVNNTPA
+                     NHSQFQTETPRANQDHYSNPQLRESLFKRSPPQTPFYPSYPQPRSPTQATARPPGTWP
+                     LPPAVTHYEFPNPTSYMQARDGGNAANKGSSPTRMASMPSTAQWSTKGMTLL"
+ORIGIN      
+        1 ctcccacatc cactcacctg gccttataaa tcagcttctc cacgcgtttt ttttttatca
+       61 ggtcatgtta aggggttttc tgcgtgacta tgaggaggag agcttttacc agcatctgtt
+      121 ttcggtagtc gaaccctttg ggtttttgta gtcaggttct gttagtaggt ccatctccgc
+      181 acttttgctt tttgctctgc gttcatccga cgaaggaatg gcggattgga agataccagt
+      241 gagttacaac ttcaacccat cttatcatgc gtatgcatac gggctcatgt acccgcaggt
+      301 gtctgagcac ggccacccga atctgagctg ggccgaggcc gcgtacagtc actccggcgg
+      361 ggtcaccgcg agctattact ccgctcaaac cgcacagcag tctccaccct ggagcccgga
+      421 gaacggcggt acgagcagct acggcaacta cccgagtcac acgcagaacg gacggctctt
+      481 catctcctat aataagactg agcccgatcc aaaagccaca gaggtagagc aggccggcag
+      541 cgataccccc agtgactcag aggcccatac gccaggtaac cttcctctga tcatcaagcc
+      601 tctctaaaaa gtggcaaagg caatttaatc cctaacaact cacggttaat gcagtaacat
+      661 cgtactattt cagtgtttat taaaaaaaat atcgaaattt aagggttatt ggtgtacact
+      721 ctagaaaata gagctactat ttcaagttta accaaatgtt aatatatgcc ctgtagttgt
+      781 aacttataaa aatgttccta gcgattttta tcaatatcca gtgattgtct tggtatttat
+      841 ataccactgt agtatttatt aatattttga atatgctttt cactttaatt ttaagattta
+      901 atttgttgaa ttctatacct tttccaattt tagtatgttg agttaaattc ttttataatt
+      961 tataatataa tttatttgca aaagctaccc tctataagtt tttaatctaa gatgcatgtt
+     1021 tgtttttttt aaagcttaaa ggggtagttc acctaaaaat gagaattgtc attcactcac
+     1081 cctcaagttg ttccaaacct gtatgatttt tttttttttt tttttctgct taacacaaga
+     1141 tattgtcaga aacaaagttg ctggtccatc aactgtttta accatattct tcaaaatatc
+     1201 atctcttgtg ttcagcacaa aaaaaaatta tacaggtttg gtacaacttg agggtgtgta
+     1261 aatgacagaa ttttcacctt taggtgagct atccctttaa gttccatgac aaaaacaaat
+     1321 tttaataggt agacagtaga ttttcaaaaa taaccctgcc tttatgttct gctatataaa
+     1381 catggtttca ggaaatgcaa gcaaataagc gtgttttaaa ggtttatcaa atattaagta
+     1441 ccaaatgtta taatccatgt ttgtttttcc ttcatttgta tagattcctg gagctcaggg
+     1501 agcagtcatg agggggccgc tctaagcaac ctcaatctcc cgtcctggaa agatcgggac
+     1561 tatgaaacgg acagtggcag tcctgacagc ggagaacaga tctcaaactc tgtctctacc
+     1621 acaggagagg agccggtgag tcagaatttg ggggtggatg ccttgccgcc tctgcccaat
+     1681 gtgaccccat ctccagcccg acctccagcc cagcctcgca aaacccgggc tgcgttttct
+     1741 gaggagcaga tgaacgctct catccaccgg tttaatgtcc agaggtacct cacgcccgca
+     1801 gagatgaaga cgcttgctgg agcgactgga ctaacgtaca aacaggttag tgatctaaag
+     1861 agaatgttgt gctaaagctt taatggatct cattcagtgt catgatgaat aactctctat
+     1921 ttctttccaa aggtgaaaac atggtttcaa aaccgtagga tgaaactcaa gaggcatcaa
+     1981 agagatagta gttggatgac cgagagatac gtggttaatg gtgtaaacaa cacaccagct
+     2041 aatcattcac aggtgagggt ggtttcatgc caaacactgt gattccaaac ctgtatgtgt
+     2101 ttcttccttc tgaggaacac aaaatatttt gaatgtttta caatttgttc ctgcagttag
+     2161 tcaatggggt ccaaaactac actgtacacc actttcattt atcttttttt ctcaagtcat
+     2221 cttttctttc caaagatgaa agtaatagag atttggaatg acacttaaag tgtctatgct
+     2281 gatgcttgtt ctgttttgtt gttaaaagaa ctgatcaagt gtagatgtag agcaaattat
+     2341 aatgttcaaa gaaggtattt cagtaatttg ggtagtgtct taaaggcaca atgattcgaa
+     2401 ttacccacca taagctgtaa tttaataata aaaataaaaa aagaggcaaa agcagatgtt
+     2461 ttgaagaact gcttatccat gctatggaag tccatggggg tccaaaacaa cactgaaccc
+     2521 cattgacttc tattgtatgg tgtgggtttt tttttttttt tttttttttt tttttttttt
+     2581 ttcccaaaag taatcgtcgt tccacagaat aaagtcatgc aagtttgaaa caacagtgtc
+     2641 tacactgttg cttgttctgt cttgttggta gcagaattta tcagtgtgga catagagcaa
+     2701 gttatcatct acaaaggagg catttcagta gtttggataa tgtcttaaag gcacaatgat
+     2761 acaaatgacc catcataagt tttaatgtac taaaatgaag gcacattcta acccccatca
+     2821 cttttagttt cagactgaaa cccctcgagc aaaccaagac cactacagta accctcagtt
+     2881 gagagagtct ctgttcaaga ggagtcctcc acaaacgccc ttctacccca gctacccaca
+     2941 gccacgctct cctacccagg ccaccgcgag acccccggga acctggcctc tgcccccagc
+     3001 tgtgacgcac tacgagttcc ccaaccctac tagctacatg caagcccgtg atggcggcaa
+     3061 tgcagcgaac aaaggaagca gccctactcg aatggcatcc atgcctagta ctgcccagtg
+     3121 gtcaacaaaa ggaatgactt tgctgtgagt ctggctgctt gtttatatat tcatcgcctt
+     3181 cagccccgca gccctgggtg ttcaccgtat ttgtaaatat tttatttttt ggcaacaaac
+     3241 tgttggatat ttttatgcat tgatgtcatg ggttgccagt tggggccaag tgagacatgt
+     3301 ctcaagattt tttttttttt tttttt
+//
+
