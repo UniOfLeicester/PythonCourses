@@ -1,0 +1,297 @@
+LOCUS       NM_001285987            2075 bp    mRNA    linear   PRI 29-MAR-2018
+DEFINITION  Homo sapiens POU class 5 homeobox 1 (POU5F1), transcript variant 5,
+            mRNA.
+ACCESSION   NM_001285987
+VERSION     NM_001285987.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2075)
+  AUTHORS   Kar S and Patra SK.
+  TITLE     Overexpression of OCT4 induced by modulation of histone marks plays
+            crucial role in breast cancer progression
+  JOURNAL   Gene 643, 35-45 (2018)
+   PUBMED   29203199
+  REMARK    GeneRIF: OCT4 is over-expressed in both of the breast cancer cell
+            lines; MCF7 and MDA-MB-231 and its inhibition resulted in drastic
+            decrease in rate of cell proliferation, metastatic ability and
+            induced apoptosis.
+REFERENCE   2  (bases 1 to 2075)
+  AUTHORS   You L, Guo X and Huang Y.
+  TITLE     Correlation of Cancer Stem-Cell Markers OCT4, SOX2, and NANOG with
+            Clinicopathological Features and Prognosis in Operative Patients
+            with Rectal Cancer
+  JOURNAL   Yonsei Med. J. 59 (1), 35-42 (2018)
+   PUBMED   29214774
+  REMARK    GeneRIF: Rectal tumor tissue OCT4 (p<0.001), SOX2 (p=0.003), and
+            NANOG (p<0.001) expressions were higher than those in adjacent
+            tissue.
+REFERENCE   3  (bases 1 to 2075)
+  AUTHORS   Wang X and Dai J.
+  TITLE     Concise review: isoforms of OCT4 contribute to the confusing
+            diversity in stem cell biology
+  JOURNAL   Stem Cells 28 (5), 885-893 (2010)
+   PUBMED   20333750
+  REMARK    GeneRIF: This review article underscores the importance of
+            identifying and discriminating the expression and functions of OCT4
+            isoforms in stem cell research.
+            Review article
+REFERENCE   4  (bases 1 to 2075)
+  AUTHORS   Zhang W, Wang X, Xiao Z, Liu W, Chen B and Dai J.
+  TITLE     Mapping of the minimal internal ribosome entry site element in the
+            human embryonic stem cell gene OCT4B mRNA
+  JOURNAL   Biochem. Biophys. Res. Commun. 394 (3), 750-754 (2010)
+   PUBMED   20230781
+  REMARK    GeneRIF: a 30-nt sequence (nt 201-231), which is sufficient to
+            promote internal initiation of translation of OCT4B mRNA in
+            embryonic stem cells was mapped.
+REFERENCE   5  (bases 1 to 2075)
+  AUTHORS   Wang X, Zhao Y, Xiao Z, Chen B, Wei Z, Wang B, Zhang J, Han J, Gao
+            Y, Li L, Zhao H, Zhao W, Lin H and Dai J.
+  TITLE     Alternative translation of OCT4 by an internal ribosome entry site
+            and its novel function in stress response
+  JOURNAL   Stem Cells 27 (6), 1265-1275 (2009)
+   PUBMED   19489092
+  REMARK    GeneRIF: OCT4 gene, by the regulation of alternative splicing and
+            alternative translation initiation, may carry out more crucial
+            roles in many biological events.
+            GeneRIF: Shows that isoform OCT4B-190 initiates at a non-AUG (CUG)
+            translation initiation codon.
+REFERENCE   6  (bases 1 to 2075)
+  AUTHORS   Atlasi Y, Mowla SJ, Ziaee SA, Gokhale PJ and Andrews PW.
+  TITLE     OCT4 spliced variants are differentially expressed in human
+            pluripotent and nonpluripotent cells
+  JOURNAL   Stem Cells 26 (12), 3068-3074 (2008)
+   PUBMED   18787205
+  REMARK    GeneRIF: OCT4 spliced variants are differentially expressed in
+            human pluripotent and nonpluripotent cells
+REFERENCE   7  (bases 1 to 2075)
+  AUTHORS   Lee J, Kim HK, Rho JY, Han YM and Kim J.
+  TITLE     The human OCT-4 isoforms differ in their ability to confer
+            self-renewal
+  JOURNAL   J. Biol. Chem. 281 (44), 33554-33565 (2006)
+   PUBMED   16951404
+  REMARK    GeneRIF: DNA binding, transactivation, and abilities to confer
+            self-renewal of the human OCT-4 isoforms differ
+REFERENCE   8  (bases 1 to 2075)
+  AUTHORS   Wey E, Lyons GE and Schafer BW.
+  TITLE     A human POU domain gene, mPOU, is expressed in developing brain and
+            specific adult tissues
+  JOURNAL   Eur. J. Biochem. 220 (3), 753-762 (1994)
+   PUBMED   7908264
+REFERENCE   9  (bases 1 to 2075)
+  AUTHORS   Takeda J, Seino S and Bell GI.
+  TITLE     Human Oct3 gene family: cDNA sequences, alternative splicing, gene
+            organization, chromosomal location, and expression at low levels in
+            adult tissues
+  JOURNAL   Nucleic Acids Res. 20 (17), 4613-4620 (1992)
+   PUBMED   1408763
+REFERENCE   10 (bases 1 to 2075)
+  AUTHORS   Schoorlemmer J and Kruijer W.
+  TITLE     Octamer-dependent regulation of the kFGF gene in embryonal
+            carcinoma and embryonic stem cells
+  JOURNAL   Mech. Dev. 36 (1-2), 75-86 (1991)
+   PUBMED   1723621
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DQ486514.1, DQ486515.1,
+            Z11899.1 and AI811039.1.
+            
+            Summary: This gene encodes a transcription factor containing a POU
+            homeodomain that plays a key role in embryonic development and stem
+            cell pluripotency. Aberrant expression of this gene in adult
+            tissues is associated with tumorigenesis. This gene can participate
+            in a translocation with the Ewing's sarcoma gene on chromosome 21,
+            which also leads to tumor formation. Alternative splicing, as well
+            as usage of alternative AUG and non-AUG translation initiation
+            codons, results in multiple isoforms. One of the AUG start codons
+            is polymorphic in human populations. Related pseudogenes have been
+            identified on chromosomes 1, 3, 8, 10, and 12. [provided by RefSeq,
+            Oct 2013].
+            
+            Transcript Variant: This variant (5, also known as OCT4B) differs
+            in the 5' UTR, lacks a portion of the 5' coding region, and
+            initiates translation at an alternate AUG start codon, compared to
+            variant 1. The resulting isoform (3, also known as OCT4B-265) is
+            shorter and has a distinct N-terminus, compared to isoform 1. This
+            variant represents an allele of variant 2 that contains an AUG
+            start codon that is polymorphic in human populations (see
+            rs3130932). This variant may encode additional isoforms through the
+            use of alternative downstream AUG and non-AUG start codons, as
+            described in PMID:19489092.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: KY781166.1, KX151172.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968189, SAMEA1968540
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-332               DQ486514.1         1-332
+            333-1004            DQ486515.1         1-672
+            1005-1681           Z11899.1           103-779
+            1682-2051           DQ486515.1         1350-1719
+            2052-2075           AI811039.1         1-24                c
+FEATURES             Location/Qualifiers
+     source          1..2075
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="6"
+                     /map="6p21.33"
+     gene            1..2075
+                     /gene="POU5F1"
+                     /gene_synonym="Oct-3; Oct-4; OCT3; OCT4; OTF-3; OTF3;
+                     OTF4"
+                     /note="POU class 5 homeobox 1"
+                     /db_xref="GeneID:5460"
+                     /db_xref="HGNC:HGNC:9221"
+                     /db_xref="MIM:164177"
+     exon            1..1244
+                     /gene="POU5F1"
+                     /gene_synonym="Oct-3; Oct-4; OCT3; OCT4; OTF-3; OTF3;
+                     OTF4"
+                     /inference="alignment:Splign:2.1.0"
+     STS             562..699
+                     /gene="POU5F1"
+                     /gene_synonym="Oct-3; Oct-4; OCT3; OCT4; OTF-3; OTF3;
+                     OTF4"
+                     /standard_name="D16S325"
+                     /db_xref="UniSTS:147089"
+     STS             598..686
+                     /gene="POU5F1"
+                     /gene_synonym="Oct-3; Oct-4; OCT3; OCT4; OTF-3; OTF3;
+                     OTF4"
+                     /standard_name="D8S2279"
+                     /db_xref="UniSTS:473907"
+     STS             611..725
+                     /gene="POU5F1"
+                     /gene_synonym="Oct-3; Oct-4; OCT3; OCT4; OTF-3; OTF3;
+                     OTF4"
+                     /standard_name="D10S16"
+                     /db_xref="UniSTS:155756"
+     misc_feature    974..976
+                     /gene="POU5F1"
+                     /gene_synonym="Oct-3; Oct-4; OCT3; OCT4; OTF-3; OTF3;
+                     OTF4"
+                     /note="upstream in-frame stop codon"
+     CDS             1004..1801
+                     /gene="POU5F1"
+                     /gene_synonym="Oct-3; Oct-4; OCT3; OCT4; OTF-3; OTF3;
+                     OTF4"
+                     /note="isoform 3 is encoded by transcript variant 5;
+                     POU-type homeodomain-containing DNA-binding protein; POU
+                     domain transcription factor OCT4; POU domain, class 5,
+                     transcription factor 1; octamer-binding protein 3;
+                     octamer-binding protein 4; octamer-binding transcription
+                     factor 3; POU class 5 homeobox 1 transcript variant
+                     OCT4B1; POU class 5 homeobox 1 transcript variant OCT4B3;
+                     POU class 5 homeobox 1 transcript variant OCT4B4; POU
+                     class 5 homeobox 1 transcript variant OCT4B2; POU class 5
+                     homeobox 1 transcript variant OCT4B6; POU class 5 homeobox
+                     1 transcript variant OCT4B5; POU classV homeobox 1 variant
+                     2"
+                     /codon_start=1
+                     /product="POU domain, class 5, transcription factor 1
+                     isoform 3"
+                     /protein_id="NP_001272916.1"
+                     /db_xref="GeneID:5460"
+                     /db_xref="HGNC:HGNC:9221"
+                     /db_xref="MIM:164177"
+                     /translation="MHFYRLFLGATRRFLNPEWKGEIDNWCVYVLTSLLPFKIQSQDI
+                     KALQKELEQFAKLLKQKRITLGYTQADVGLTLGVLFGKVFSQTTICRFEALQLSFKNM
+                     CKLRPLLQKWVEEADNNENLQEICKAETLVQARKRKRTSIENRVRGNLENLFLQCPKP
+                     TLQQISHIAQQLGLEKDVVRVWFCNRRQKGKRSSSDYAQREDFEAAGSPFSGGPVSFP
+                     LAPGPHFGTPGYGSPHFTALYSSVPFPEGEAFPPVSVTTLGSPMHSN"
+     misc_feature    1229..1231
+                     /gene="POU5F1"
+                     /gene_synonym="Oct-3; Oct-4; OCT3; OCT4; OTF-3; OTF3;
+                     OTF4"
+                     /note="OCT4B-190; non-AUG start codon; Region: Alternative
+                     start codon"
+     misc_feature    1307..1309
+                     /gene="POU5F1"
+                     /gene_synonym="Oct-3; Oct-4; OCT3; OCT4; OTF-3; OTF3;
+                     OTF4"
+                     /note="OCT4B-164; Region: Alternative start codon"
+     exon            1245..1375
+                     /gene="POU5F1"
+                     /gene_synonym="Oct-3; Oct-4; OCT3; OCT4; OTF-3; OTF3;
+                     OTF4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1376..1534
+                     /gene="POU5F1"
+                     /gene_synonym="Oct-3; Oct-4; OCT3; OCT4; OTF-3; OTF3;
+                     OTF4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1535..2065
+                     /gene="POU5F1"
+                     /gene_synonym="Oct-3; Oct-4; OCT3; OCT4; OTF-3; OTF3;
+                     OTF4"
+                     /inference="alignment:Splign:2.1.0"
+     STS             1803..2053
+                     /gene="POU5F1"
+                     /gene_synonym="Oct-3; Oct-4; OCT3; OCT4; OTF-3; OTF3;
+                     OTF4"
+                     /standard_name="SHGC-12693"
+                     /db_xref="UniSTS:38468"
+     STS             1807..1922
+                     /gene="POU5F1"
+                     /gene_synonym="Oct-3; Oct-4; OCT3; OCT4; OTF-3; OTF3;
+                     OTF4"
+                     /standard_name="POU5F1"
+                     /db_xref="UniSTS:479943"
+     regulatory      2028..2033
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="POU5F1"
+                     /gene_synonym="Oct-3; Oct-4; OCT3; OCT4; OTF-3; OTF3;
+                     OTF4"
+     polyA_site      2065
+                     /gene="POU5F1"
+                     /gene_synonym="Oct-3; Oct-4; OCT3; OCT4; OTF-3; OTF3;
+                     OTF4"
+ORIGIN      
+        1 ggaaaaaagg aaagtgcact tggaagagat ccaagtgggc aacttgaaga acaagtgcca
+       61 aatagcactt ctgtcatgct ggatgtcagg gctctttgtc cactttgtat agccgctggc
+      121 ttatagaagg tgctcgataa atctcttgaa tttaaaaatc aattaggatg cctctatagt
+      181 gaaaaagata cagtaaagat gagggataat caatttaaaa aatgagtaag tacacacaaa
+      241 gcactttatc cattcttatg acacctgtta cttttttgct gtgtttgtgt gtatgcatgc
+      301 catgttatag tttgtgggac cctcaaagca agctggggag agtatatact gaatttagct
+      361 tctgagacat gatgctcttc ctttttaatt aacccagaac ttagcagctt atctatttct
+      421 ctaatctcaa aacatcctta aactgggggt gatacttgag tgagagaatt ttgcaggtat
+      481 taaatgaact atcttctttt ttttttttct ttgagacaga gtcttgctct gtcacccagg
+      541 ctggagtgca gtggcgtgat ctcagctcac tgcaacctcc gcctcccggg ttcaagtgat
+      601 tctcctgcct cagcctcctg agtagctggg attacaggtg cgtgccaccg tgcccagcta
+      661 atttttgtgt ttttagtaga gacggggttt caccatgttg gccatgctgg tcttgaactc
+      721 ctgacctcgt gatctgccca cctcggcctc ccaaagtgct ggaattatag gcgtgagcca
+      781 ccgcgcccag caaagaactt ctaaccttca taacctgaca ggtgttctcg aggccagggt
+      841 ctctctttct gtcctttcac gatgctctgc atcccttgga tgtgccagtt tctgggggaa
+      901 gagtagtcct ttgttacatg catgagtcag tgaacaggga atgggtgaat gacatttgtg
+      961 ggtaggttat ttctagaagt taggtgggca gcttggaagg cagatgcact tctacagact
+     1021 attccttggg gccacacgta ggttcttgaa tcccgaatgg aaaggggaga ttgataactg
+     1081 gtgtgtttat gttcttacaa gtcttctgcc ttttaaaatc cagtcccagg acatcaaagc
+     1141 tctgcagaaa gaactcgagc aatttgccaa gctcctgaag cagaagagga tcaccctggg
+     1201 atatacacag gccgatgtgg ggctcaccct gggggttcta tttgggaagg tattcagcca
+     1261 aacgaccatc tgccgctttg aggctctgca gcttagcttc aagaacatgt gtaagctgcg
+     1321 gcccttgctg cagaagtggg tggaggaagc tgacaacaat gaaaatcttc aggagatatg
+     1381 caaagcagaa accctcgtgc aggcccgaaa gagaaagcga accagtatcg agaaccgagt
+     1441 gagaggcaac ctggagaatt tgttcctgca gtgcccgaaa cccacactgc agcagatcag
+     1501 ccacatcgcc cagcagcttg ggctcgagaa ggatgtggtc cgagtgtggt tctgtaaccg
+     1561 gcgccagaag ggcaagcgat caagcagcga ctatgcacaa cgagaggatt ttgaggctgc
+     1621 tgggtctcct ttctcagggg gaccagtgtc ctttcctctg gccccagggc cccattttgg
+     1681 taccccaggc tatgggagcc ctcacttcac tgcactgtac tcctcggtcc ctttccctga
+     1741 gggggaagcc tttccccctg tctccgtcac cactctgggc tctcccatgc attcaaactg
+     1801 aggtgcctgc ccttctagga atgggggaca gggggagggg aggagctagg gaaagaaaac
+     1861 ctggagtttg tgccagggtt tttgggatta agttcttcat tcactaagga aggaattggg
+     1921 aacacaaagg gtgggggcag gggagtttgg ggcaactggt tggagggaag gtgaagttca
+     1981 atgatgctct tgattttaat cccacatcat gtatcacttt tttcttaaat aaagaagcct
+     2041 gggacacagt agatagacac acttaaaaaa aaaaa
+//
+
