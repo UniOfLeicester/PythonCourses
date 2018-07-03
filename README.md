@@ -1,5 +1,5 @@
 # PythonIntro
-*Based on the Introduction to Python Software Carpentary Course, edited by Teri Forey and T.J. Ragan.*
+*Based on the Software Carpentry Python course by Cindee Madison and Thomas Kluyver (with thanks to Justin Kitzes and Matt Davis), edited by Teri Forey and T.J. Ragan.*
 
 This directory contains the course material for both **Introduction to Programming in Python for Researchers** and **Basic Python Programming for Researchers**. 
 Training courses are available through the University of Leicester Research Computing Support Team. 
