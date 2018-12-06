@@ -1,0 +1,4 @@
+Hello, welcome to the example file
+This is line number 2
+We now have line 3
+Going to finish up now!
