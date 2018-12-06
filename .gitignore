@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 env/
 data/ex1.sorted.bam
+__pycache__
