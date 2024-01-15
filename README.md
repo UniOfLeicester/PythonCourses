@@ -14,7 +14,7 @@ and [popular](https://pypi.org/) programming language.
 ```sh
 git clone git@github.com:UniOfLeicester/PythonCourses.git
 ```
-- Furhter the courses will be followed on Firefox
+- Further the courses will be followed on Firefox
 
 ## Learning to Program via Python
 For this beginners course on the basic concepts of programming, start with the notebook `Learning_to_Program.ipynb`.
