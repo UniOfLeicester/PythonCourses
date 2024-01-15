@@ -19,7 +19,7 @@ git clone git@github.com:UniOfLeicester/PythonCourses.git
 ## Learning to Program via Python
 For this beginners course on the basic concepts of programming, start with the notebook `Learning_to_Program.ipynb`.
 
-Note: at the end of course, please fill the [survey](https://app.onlinesurveys.jisc.ac.uk/s/leicester/learning-to-program-via-python)
+Note: at the end of course, please fill the [survey](https://app.onlinesurveys.jisc.ac.uk/s/leicester/learning-to-program-via-python).
 
 ## Scientific Python for Programmers
 This more advanced course designed for those who already know how to program starts with notebook `Scientific_Python-1.ipynb`.
