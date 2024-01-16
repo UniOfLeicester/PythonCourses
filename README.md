@@ -4,7 +4,7 @@
 ## Python
 It was created in the late 1980s by Guido van Rossum.
 
-It is simnple, open source, interpreted, dynamic, portable, object oriented 
+It is simple, open source, interpreted, dynamic, portable, object oriented 
 and [popular](https://pypi.org/) programming language.
 
 ## Setup
@@ -27,6 +27,7 @@ Here are below the topics:
 5. Branching or Making choices (if, elif, else etc)
 6. Creating chunks with functions and modules 
 7. Reading from a file
+
 Congratulations, you made it!
 
 Note: at the end of course, please fill the [survey](https://app.onlinesurveys.jisc.ac.uk/s/leicester/learning-to-program-via-python).
