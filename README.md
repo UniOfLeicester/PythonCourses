@@ -1,11 +1,7 @@
 # Python Courses
-*Based on the Software Carpentry Python course by Cindee Madison and Thomas Kluyver (with thanks to Justin Kitzes and Matt Davis), edited by Teri Forey and T.J. Ragan.*
+*Based on the Software Carpentry Python course by Cindee Madison and Thomas Kluyver (with thanks to Justin Kitzes and Matt Davis)*
 
-## Python
-It was created in the late 1980s by Guido van Rossum.
-
-It is simple, open source, interpreted, dynamic, portable, object oriented 
-and [popular](https://pypi.org/) programming language.
+*Lightly modified by T.J. Ragan, Teri Forey, Makis Kappas, Lokesh Ragta, Tom Meltzer and Muhammad Asif.*
 
 ## Setup
 - Connect to [ALICE HPC](https://alice-docs.le.ac.uk/) via NoMachine
