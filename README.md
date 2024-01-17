@@ -1,5 +1,5 @@
 # Python Courses
-*Based on the Software Carpentry Python course by Cindee Madison and Thomas Kluyver (with thanks to Justin Kitzes and Matt Davis)*
+*Based on the Software Carpentry Python course by Cindee Madison and Thomas Kluyver (with thanks to Justin Kitzes and Matt Davis).*
 
 *Lightly modified by T.J. Ragan, Teri Forey, Makis Kappas, Lokesh Ragta, Tom Meltzer and Muhammad Asif.*
 
