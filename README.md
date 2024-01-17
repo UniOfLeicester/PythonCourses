@@ -10,6 +10,11 @@
 ```sh
 git clone git@github.com:UniOfLeicester/PythonCourses.git
 ```
+or
+```sh
+git clone https://github.com/UniOfLeicester/PythonCourses.git
+```
+
 - Further the courses will be followed on Firefox
 
 ## Learning to Program via Python
