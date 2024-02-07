@@ -8,11 +8,11 @@
 - Open Firefox, go to [jupyterhub](https://jupyterhub.rcs.le.ac.uk/hub/login) and sign in with your UoL credentials
 - Open terminal, type and enter the following command:
 ```sh
-git clone git@github.com:UniOfLeicester/PythonCourses.git
+git clone https://github.com/UniOfLeicester/PythonCourses.git
 ```
 or
 ```sh
-git clone https://github.com/UniOfLeicester/PythonCourses.git
+git clone git@github.com:UniOfLeicester/PythonCourses.git
 ```
 
 - Further the courses will be followed on Firefox
