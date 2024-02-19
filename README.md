@@ -34,5 +34,13 @@ Congratulations, you made it!
 Note: at the end of course, please fill the [survey](https://app.onlinesurveys.jisc.ac.uk/s/leicester/learning-to-program-via-python).
 
 ## Scientific Python for Programmers
-This more advanced course designed for those who already know how to program starts with notebook `Scientific_Python-1.ipynb`.
-Slides are available [here](https://docs.google.com/presentation/d/1ts4tmB94niBYX0xKdxoNpsbaErdI88ZA9qp4aVQqhlE/edit?usp=sharing)
+For this advanced course designed for those who already know how to program, start with notebook `Scientific_Python-1.ipynb`.
+
+Here are below the topics:
+1. Analysis using just python and matplotlib
+2. Analysis using numpy and matplotlib
+3. Analysis using pandas and matplotlib
+
+Congratulations, you made it!
+
+Note: at the end of course, please fill the [survey](https://app.onlinesurveys.jisc.ac.uk/s/leicester/scientific-python-for-programmers).
