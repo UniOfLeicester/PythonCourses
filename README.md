@@ -5,7 +5,8 @@
 
 ## Setup
 - Connect to [ALICE HPC](https://alice-docs.le.ac.uk/) via NoMachine
-- Open Firefox, go to [jupyterhub](https://jupyterhub.rcs.le.ac.uk/hub/login) and sign in with your UoL credentials
+- Open Firefox (Applications > Internet > Firefox)
+- Go to [jupyterhub](https://jupyterhub.rcs.le.ac.uk/hub/login) and sign in with your UoL credentials (username NOT email address)
 - Open terminal, type and enter the following command:
 ```sh
 git clone https://github.com/UniOfLeicester/PythonCourses.git
